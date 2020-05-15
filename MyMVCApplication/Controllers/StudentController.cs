@@ -11,7 +11,7 @@ namespace MyMVCApplication.Controllers
         // GET: Student
         public string Index()
         {
-            return "This is Index action method of StudentController";
+            return "HelloStudent";
         }
     }
 }
